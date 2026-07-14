@@ -1,4 +1,4 @@
-const DEFAULT_MINUTES = 25;
+const DEFAULT_MINUTES = 20;
 const STORAGE_KEY = "pomodoroMinutes";
 
 function getStoredMinutes() {
