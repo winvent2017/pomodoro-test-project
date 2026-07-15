@@ -31,6 +31,13 @@ h1 {
   text-transform: uppercase;
 }
 
+.clock-display {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #c9ccef;
+  letter-spacing: 1px;
+}
+
 .time-display {
   font-size: 5rem;
   font-weight: 700;
